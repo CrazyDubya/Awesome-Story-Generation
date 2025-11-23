@@ -9,12 +9,45 @@
 
 ## Executive Summary
 
-**Awesome-Story-Generation** is a well-curated academic resource tracking 85+ research papers on LLM-based story generation. The repository demonstrates strong technical infrastructure with automated citation tracking and systematic organization. While currently positioned as a free academic resource, it has significant potential for commercial development through enhanced features, community engagement, and value-added services.
+**Awesome-Story-Generation** is a well-curated academic resource tracking 85+ research papers on LLM-based story generation. The repository demonstrates strong technical infrastructure with automated citation tracking and systematic organization.
 
-**Overall Assessment:**
+### Two Strategic Paths Forward
+
+**PATH 1: Research Platform (This Document)**
+Commercialize the paper repository itself as a premium research intelligence platform for the story generation community.
+
+**PATH 2: RAG-Powered Story Generator (See: RAG_STORY_AGENTS_EVALUATION.md) ⭐ RECOMMENDED**
+Use the papers as a **knowledge base for RAG-powered AI agents** that generate stories by retrieving and applying research techniques dynamically.
+
+**Note:** Path 2 (RAG Story Generator) offers significantly higher commercial potential ($500M+ market vs $10-50M market) and is detailed in a separate evaluation document. This document focuses on Path 1.
+
+**Overall Assessment (Path 1 - Research Platform):**
 - **Current State:** ⭐⭐⭐⭐ (4/5) - Excellent foundation
 - **Enhancement Potential:** ⭐⭐⭐⭐⭐ (5/5) - High opportunity
-- **Commercial Viability:** ⭐⭐⭐⭐ (4/5) - Strong potential with right strategy
+- **Commercial Viability:** ⭐⭐⭐ (3/5) - Viable but limited compared to Path 2
+
+**Overall Assessment (Path 2 - RAG Story Generator):**
+- **Technical Viability:** ⭐⭐⭐⭐⭐ (5/5) - Novel and defensible
+- **Market Potential:** ⭐⭐⭐⭐⭐ (5/5) - Large proven market
+- **Commercial Viability:** ⭐⭐⭐⭐⭐ (5/5) - Strong potential with clear path to $100M+ valuation
+
+---
+
+## Path Comparison Summary
+
+| Aspect | Path 1: Research Platform | Path 2: RAG Story Generator |
+|--------|---------------------------|----------------------------|
+| **Core Product** | Premium paper repository + tools | AI story generation product |
+| **Target Market** | Researchers, R&D teams | Writers, content creators, game devs |
+| **Market Size** | $10-50M TAM | $500M-1B TAM |
+| **Differentiation** | Incremental over Papers with Code | Novel RAG-based approach |
+| **Technical Moat** | Low (content can be copied) | High (tech + data + methodology) |
+| **Year 1 Revenue** | $174K | $134K |
+| **Year 3 Revenue** | $1M | $2.2M |
+| **Exit Potential** | $5-20M | $50-200M+ |
+| **Competition** | Papers with Code, Google Scholar | Sudowrite, NovelAI, ChatGPT |
+| **Development Cost** | $80-100K | $250K |
+| **Recommended?** | Secondary option | **PRIMARY RECOMMENDATION** |
 
 ---
 
